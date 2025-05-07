@@ -1,9 +1,9 @@
 # Exemplo de utilização de dicionários no Python
 
 aluno = {
-    'Nome' : 'Maria'
-    'Idade': 29
-    'Curso': 'Análise de Dados'
+    'Nome' : 'Maria',
+    'Idade': 29,
+    'Curso': 'Análise de Dados',
 }
 
 print(aluno) # Imprime todos os itens do dicionario
